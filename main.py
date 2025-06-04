@@ -5,7 +5,7 @@ import os
 #load_env()
 
 # 2. Paste your API key (between the quotes)
-client = groq.Groq(api_key="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")
+client = groq.Groq(api_key="")
 #or
 # client = groq.Groq(api_key=os.getenv(GROQ_API_KEY)
 
